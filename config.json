@@ -1,4 +1,6 @@
 {
-    "d" : "timesofmalta.com", 
-    "ts" : 1716400000
-}
+    "d": "timesofmalta.com",
+    "ts": 1716400000,
+    "fallbacks": ["lovinmalta.com", "facebook.com"],
+    "next_pointer": null
+  }
